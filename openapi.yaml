@@ -5218,7 +5218,7 @@ components:
           nullable: true
           oneOf:
             - type: string
-              default: <|endoftext|>
+              default: "<|endoftext|>"
               example: "\n"
               nullable: true
             - type: array
