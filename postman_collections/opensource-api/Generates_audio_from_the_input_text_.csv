@@ -1,0 +1,8 @@
+model,input,voice,response_format,speed,statusCode,scenario
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,alloy,object,1,200,OK
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,echo,object,1,200,OK
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,fable,object,1.5,200,OK
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,onyx,object,2,200,OK
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,nova,object,2.5,200,OK
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,shimmer,object,3,200,OK
+gpt-3.5-turbo,The quick brown fox jumped over the lazy dog,randomVoice,object,4.5,400,Bad

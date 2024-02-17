@@ -1,0 +1,7 @@
+thread_id,run_id,step_id,statusCode,scenario
+dolore anim qui,qui id,tool_calls,200,OK
+example_id_1,example_run_id_1,example_step_id_1,404,FAIL
+example_id_2,example_run_id_2,example_step_id_2,500,FAIL
+example_id_3,example_run_id_3,example_step_id_3,503,FAIL
+example_id_4,example_run_id_4,example_step_id_4,402,FAIL
+example_id_5,example_run_id_5,example_step_id_5,201,OK

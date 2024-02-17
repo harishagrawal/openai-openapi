@@ -1,0 +1,7 @@
+model,training_file,batch_size,learning_rate_multiplier,n_epochs,validation_file,statusCode,scenario
+gpt-3.5-turbo,file-abc123,auto,auto,auto,file-abc123,200,OK
+ad cons,ut es,auto,auto,auto,aliquip in in,200,OK
+ex ea,labore et dolore,auto,auto,auto,file-def456,404,INVALID
+gpt-2.5-turbo,file-def456,auto,auto,auto,file-ghi789,201,OK
+quia volu,consectetur adipisci,auto,auto,auto,file-rst987,500,INVALID
+adipisci-understood,file-jkl010,auto,auto,auto,file-uvw321,202,OK

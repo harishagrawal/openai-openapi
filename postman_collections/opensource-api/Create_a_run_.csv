@@ -1,0 +1,6 @@
+thread_id,assistant_id,model,instructions,additional_instructions,tools,metadata,statusCode,scenario
+laboris in dolor enim Ut,aliquip do,reprehenderit,Some Instructions,Additional Instructions,["tool1","tool2"],{},200,OK
+laboris in dolor enim Ut,aliquip do,gpt-3.5-turbo,Instructions,Extra Instructions,["tool3","tool4"],{},200,OK
+random_thread_id_1,random_assistant_id_1,random_model_1,Generated Instruction 1,Additional Input 1,["random_tool1","random_tool2"],{},500,Error
+random_thread_id_2,random_assistant_id_2,random_model_2,Generated Instruction 2,Additional Input 2,["random_tool3","random_tool4"],{},400,Error
+random_thread_id_3,random_assistant_id_3,random_model_3,Generated Instruction 3,Additional Input 3,["random_tool5","random_tool6"],{},300,Unknown
