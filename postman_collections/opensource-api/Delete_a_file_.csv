@@ -1,0 +1,9 @@
+file_id,statusCode,scenario
+exercitation am,200,OK
+exercitation am,250,OK
+exercitation am,275,OK
+exercitation am,299,OK
+exercitation an,400,Bad Request
+exercitation an,500,Server Error
+exercitation an,404,Not Found
+exercitation ao,401,Unauthorized

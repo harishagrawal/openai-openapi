@@ -1,0 +1,9 @@
+model,messages,frequency_penalty,top_logprobs,max_tokens,n,presence_penalty,type,seed,stop,temperature,top_p,tools,tool_choice,user,function_call,functions,statusCode,scenario
+gpt-3.5-turbo,2,0,3,100,1,0,text,5006498297592844000,,1,1,5,,user-1234,call1,function1,200,OK
+gpt-3.5-turbo,1,-1,4,50,2,-0.5,json_object,8670412332309406460,,0.5,0.75,2,,user-1234,call2,function2,201,OK
+gpt-3.5-turbo,3,1,2,150,3,1.5,text,-3563044078909237764,,1.5,0.5,3,,user-1234,call3,function3,282,OK
+gpt-3.5-turbo,4,-0.9,1,200,4,-1.2,json_object,3920740813924478277,,2,0.9,4,,user-1234,call4,function4,279,OK
+gpt-3.5-turbo,5,0.7,5,250,1,0.7,text,-792615765019848209,,1.2,0.6,5,,user-1234,call5,function5,299,OK
+gpt-3.5-turbo,3,-2,0,300,2,-2,json_object,1366617496584804000,,1.7,0.3,2,,user-1234,call6,function6,400,ERROR
+gpt-3.5-turbo,2,1.5,4,350,3,1,json_object,-6029323443778058232,,0.7,0.4,3,,user-1234,call7,function7,500,ERROR
+gpt-3.5-turbo,4,-1.9,3,400,1,-1.5,text,9203873938459017593,,1.9,0.2,4,,user-1234,call8,function8,600,ERROR

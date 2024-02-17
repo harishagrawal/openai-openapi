@@ -1,0 +1,7 @@
+assistant_id,model,name,description,instructions,metadata,statusCode,scenario
+1001,gpt-3.5-turbo,fugiat culpa cupidatat magna qui,labore dolor,velit labore deserunt,{},200,OK
+1002,gpt-3.5-turbo,sit-conculis-at,quid-enim-velit,Lorem-ipsum-dictum,{},201,OK
+1003,gpt-3.5-turbo,tempor-est-raletl,adipisicing-voluptate,Fusce-aliquam,{},202,OK
+1004,gpt-3.5-turbo,ipsum-volupat-qua,luctus-velit,Paene-insolens-appellantur,{},203,OK
+1005,gpt-3.5-turbo,eu-qui-ultimix,dployment-minim-est,Ne-debet-esse,{},204,OK
+1006,gpt-3.5-turbo,Tempus-Proident-Tem,non-cupidatat,proficiscitur-anti-in,{},300,OK

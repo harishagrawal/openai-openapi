@@ -1,0 +1,6 @@
+thread_id,role,content,metadata,statusCode,scenario
+consequat cupidatat aute,assistant,[{"type": "image_file","image_file": {"file_id": "occae"}},{"type": "image_file","image_file": {"file_id": "dolore sed labore fugiat"}}],{},200,OK
+random thread_id 1,user,[{"type": "text_file","text_file": {"file_id": "random file id 1"}}],random metadata 1,404,NOT OK
+random thread_id 2,admin,[{"type": "pdf_file","pdf_file": {"file_id": "random file id 2"}}],random metadata 2,503,NOT OK
+random thread_id 3,guest,[{"type": "jpg_file","jpg_file": {"file_id": "random file id 3"}}],random metadata 3,400,NOT OK
+random thread_id 4,moderator,[{"type": "doc_file","doc_file": {"file_id": "random file id 4"}}],random metadata 4,307,TEMP REDIRECT

@@ -1,0 +1,7 @@
+assistant_id,statusCode,scenario
+random_invalid_id1,404,FAILED
+random_invalid_id2,500,FAILED
+random_invalid_id3,301,MOVED
+nulla,200,OK
+random_invalid_id4,400,BAD_REQUEST
+random_invalid_id5,501,NOT_IMPLEMENTED

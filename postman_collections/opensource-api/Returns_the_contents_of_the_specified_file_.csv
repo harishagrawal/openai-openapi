@@ -1,0 +1,11 @@
+file_id,statusCode,scenario
+file_1,200,OK
+file_2,200,OK
+file_3,200,OK
+file_4,200,OK
+file_5,245,OK
+file_6,299,OK
+file_7,350,NOT_OK
+file_8,400,NOT_OK
+file_9,320,NOT_OK
+file_10,500,NOT_OK

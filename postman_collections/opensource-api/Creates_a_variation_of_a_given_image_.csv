@@ -1,0 +1,3 @@
+model,n,response_format,size,user,statusCode,scenario
+gpt-3.5-turbo,1,{"created": -2793268,"data": [{"b64_json": "culpa elit","url": "aliqua cillum","revised_prompt": "esse id"},{"b64_json": "sunt nostrud incidid","url": "irure ullamco adipisicing dolore","revised_prompt": "pariatur do in proident"}]},"1024x1024","user-1234","200","OK"
+gpt-3.5-turbo,2,{"created": -2793268,"data": [{"b64_json": "culpa elit","url": "aliqua cillum","revised_prompt": "esse id"},{"b64_json": "sunt nostrud incidid","url": "irure ullamco adipisicing dolore","revised_prompt": "pariatur do in proident"}]},"512x512","user-1234","200","OK"

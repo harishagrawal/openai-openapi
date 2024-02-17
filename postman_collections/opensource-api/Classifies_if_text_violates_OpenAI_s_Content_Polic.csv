@@ -1,0 +1,11 @@
+input,model,statusCode,scenario
+The quick brown fox jumped over the lazy dog,gpt-3.5-turbo,200,OK
+Lorem occaecat,in commodo,200,OK
+The quick brown fox jumped over the lazy dog,gpt-3.5-turbo,503,Error
+Lorem occaecat,in commodo,404,Error
+The quick brown fox jumped over the lazy dog,gpt-3.5-turbo,200,OK
+Lorem occaecat,in commodo,500,Error
+The quick brown fox jumped over the lazy dog,gpt-3.5-turbo,200,OK
+Lorem occaecat,in commodo,401,Error
+The quick brown fox jumped over the lazy dog,gpt-3.5-turbo,200,OK
+Lorem occaecat,in commodo,200,OK

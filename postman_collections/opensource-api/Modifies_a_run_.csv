@@ -1,0 +1,6 @@
+thread_id,run_id,metadata,statusCode,scenario
+laboris in dolor enim Ut,1,{\"id\": \"dolor cillum\",\"object\": \"thread.run\",\"created_at\": -61084959,\"thread_id\": \"laboris in dolor enim Ut\",\"assistant_id\": \"aliquip do\",\"status\": \"cancelled\"},200,OK
+laboris in dolor enim Ut,2,{\"id\": \"dolor cillum\",\"object\": \"thread.run\",\"created_at\": -61084959,\"thread_id\": \"laboris in dolor enim Ut\",\"assistant_id\": \"aliquip do\",\"status\": \"cancelled\"},250,OK
+laboris in dolor enim Ut,3,{\"id\": \"dolor cillum\",\"object\": \"thread.run\",\"created_at\": -61084959,\"thread_id\": \"laboris in dolor enim Ut\",\"assistant_id\": \"aliquip do\",\"status\": \"cancelled\"},300,OK
+laboris in dolor enim Ut,4,{\"id\": \"dolor cillum\",\"object\": \"thread.run\",\"created_at\": -61084959,\"thread_id\": \"laboris in dolor enim Ut\",\"assistant_id\": \"aliquip do\",\"status\": \"cancelled\"},400,OK
+laboris in dolor enim Ut,5,{\"id\": \"dolor cillum\",\"object\": \"thread.run\",\"created_at\": -61084959,\"thread_id\": \"laboris in dolor enim Ut\",\"assistant_id\": \"aliquip do\",\"status\": \"cancelled\"},500,OK

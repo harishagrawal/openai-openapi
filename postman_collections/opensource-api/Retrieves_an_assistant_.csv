@@ -1,0 +1,11 @@
+assistant_id,statusCode,scenario
+in aliquip Ex,200,OK
+fugiat culpa cupidatat magna qui,201,OK
+velit labore deserunt,202,OK
+labore dolor,203,OK
+sint nulla consequat magna,204,OK
+123456,500,Error
+789012,404,Not Found
+321654,403,Forbidden
+987210,400,Bad Request
+564738,401,Unauthorized

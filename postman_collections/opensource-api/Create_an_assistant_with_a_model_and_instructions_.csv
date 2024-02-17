@@ -1,0 +1,11 @@
+model,name,description,instructions,metadata,statusCode,scenario
+gpt-3.5-turbo,fugiat culpa cupidatat magna qui,labore dolor,velit labore deserunt,{},200,OK
+gpt-3.5-turbo,inipta aute eu,labore dolor,velit labore deserunt,{},201,OK
+gpt-3.5-turbo,ullamco laboris nisi ut aliquip,labore dolor,velit labore deserunt,{},205,OK
+gpt-3.5-turbo,velit esse cillum dolore,labore dolor,velit labore deserunt,{},200,OK
+gpt-3.5-turbo,exercitation ullamco laboris,labore dolor,velit labore deserunt,{},206,OK
+gpt-3.5-turbo,elit,quia non numquam,labore dolor,velit labore deserunt,{},300,Failed
+gpt-3.5-turbo,eu fugiat nulla pariatur,labore dolor,velit labore deserunt,{},199,Failed
+gpt-3.5-turbo,anim id est laborum,labore dolor,velit labore deserunt,{},180,Failed
+gpt-3.5-turbo,tempor incididunt ut labore,labore dolor,velit labore deserunt,{},210,OK
+gpt-3.5-turbo,et dolorum fuga,labore dolor,velit labore deserunt,{},220,OK

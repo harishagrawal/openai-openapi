@@ -1,0 +1,11 @@
+assistant_id,file_id,statusCode,scenario
+helper1,file1,200,OK
+helper2,file2,200,OK
+helper3,file3,200,OK
+helper4,file4,200,OK
+helper5,file5,200,OK
+helper6,file6,300,random_value
+helper7,file7,400,random_value
+helper8,file8,500,random_value
+helper9,file9,600,random_value
+helper10,file10,700,random_value
