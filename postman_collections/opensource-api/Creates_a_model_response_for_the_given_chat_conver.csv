@@ -1,0 +1,10 @@
+model,messages,frequency_penalty,top_logprobs,max_tokens,n,presence_penalty,type,seed,stop,temperature,top_p,tools,tool_choice,user,function_call,functions,statusCode,scenario
+gpt-3.5-turbo,1,-0.5,3,400,1,-0.8,text,9223372036854776000,null,1.2,0.85,[],null,user-1234,null,[],200,OK
+gpt-3.5-turbo,2,0.5,2,500,2,1,json_object,-9223372036854775938,null,1.5,0.75,[],null,user-1235,null,[],200,OK
+gpt-3.5-turbo,3,-1.5,4,600,128,-1.3,text,9223372036754775634,null,1.8,0.65,[],null,user-1236,null,[],200,OK
+gpt-3.5-turbo,4,1.5,5,700,127,0.3,json_object,-9223372036654775631,null,1.9,0.55,[],null,user-1237,null,[],201,OK
+gpt-3.5-turbo,5,-0.6,1,800,126,0.4,text,9223372036554775630,null,1.6,0.45,[],null,user-1238,null,[],202,OK
+gpt-3.5-turbo,6,0.7,0,900,125,-0.2,json_object,-9223372036454775629,null,1.4,0.35,[],null,user-1239,null,[],203,OK
+gpt-3.5-turbo,7,-1.8,3,1000,124,1.6,text,9223372036354775628,null,1.7,0.25,[],null,user-1240,null,[],204,OK
+gpt-3.5-turbo,8,1.9,2,1100,123,-0.9,json_object,-9223372036254775627,null,1.1,0.15,[],null,user-1241,null,[],205,OK
+gpt-3.5-turbo,9,-0.4,4,1200,122,1.7,text,9223372036154775626,null,1.3,0.05,[],null,user-1242,null,[],206,OK
