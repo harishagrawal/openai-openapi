@@ -1,0 +1,6 @@
+model,messages,frequency_penalty,top_logprobs,max_tokens,n,presence_penalty,type,seed,stop,temperature,top_p,tools,tool_choice,user,function_call,functions,statusCode,scenario
+gpt-3.5-turbo,["message1","message2"],1,5,1000,1,0,text,1234,null,1,1,["tool1","tool2"],"Tool1","user-1234","function1",["function1","function2"],200,OK
+gpt-3.5-turbo,["message3","message4"],0.5,4,2000,2,0.5,json_object,5678,null,0.5,0.5,["tool3","tool4"],"Tool2","user-5678","function2",["function3","function4"],200,OK
+gpt-3.5-turbo,["message5","message6"],-1,3,3000,3,-1,text,9012,null,0,-1,["tool5","tool6"],"Tool3","user-9012","function3",["function5","function6"],200,OK
+gpt-3.5-turbo,["message7","message8"],-0.5,2,4000,4,-0.5,json_object,3456,null,2,0.5,["tool7","tool8"],"Tool4","user-3456","function4",["function7","function8"],200,OK
+gpt-3.5-turbo,["message9","message10"],0,1,5000,5,0,text,7890,null,1.5,1,["tool9","tool10"],"Tool5","user-7890","function5",["function9","function10"],200,OK
