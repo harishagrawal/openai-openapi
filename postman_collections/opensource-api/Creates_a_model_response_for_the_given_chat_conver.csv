@@ -1,0 +1,3 @@
+model,messages,frequency_penalty,top_logprobs,max_tokens,n,presence_penalty,type,seed,stop,temperature,top_p,tools,tool_choice,user,function_call,functions,statusCode,scenario
+gpt-3.5-turbo,tempor sunt cupidatat,0,4,300,1,0,text,12345678900,,1,1,deserunt irure,,user-1234,,<Error: Too many levels of nesting to fake this schema>,200,OK
+gpt-3.5-turbo,tempor sunt cupidatat,0,2,200,1,0,json_object,78901234567,,1,1,proident irure occaecat,,user-1234,,<Error: Too many levels of nesting to fake this schema>,200,OK
