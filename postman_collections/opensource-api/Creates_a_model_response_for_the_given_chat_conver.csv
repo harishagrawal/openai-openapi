@@ -1,0 +1,6 @@
+model,messages,frequency_penalty,top_logprobs,max_tokens,n,presence_penalty,type,seed,stop,temperature,top_p,tools,tool_choice,user,function_call,functions,statusCode,scenario
+gpt-3.5-turbo,[{"role":"assistant","content":"nostrud in"}],0,5,100,1,0,text,9223372036854776000,null,1,1,[],null,user-1234,{},[],200,OK
+gpt-3.5-turbo,[{"role":"assistant","content":"random content"}],-2,3,200,1,2,json_object,-9223372036854776000,null,1,1,[],null,user-1235,{},[],500,ERROR
+gpt-3.5-turbo,[{"role":"assistant","content":"another message"}],1,4,300,128,1,text,0,null,0,0,[],null,user-1236,{},[],400,ERROR
+gpt-3.5-turbo,[{"role":"assistant","content":"final message"}],2,0,400,1,-2,json_object,9223372036854776000,null,2,1,[],null,user-1237,{},[],200,OK
+gpt-3.5-turbo,[{"role":"assistant","content":"check message"}],0,2,500,1,0,text,-9223372036854776000,null,0,0,[],null,user-1238,{},[],404,ERROR
